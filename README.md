@@ -1,4 +1,4 @@
-# 简陋的Unity2048
+# Simple Unity2048
 
 ## Scripts
 * startPanel/startButton
